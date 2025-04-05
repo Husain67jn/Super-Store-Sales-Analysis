@@ -39,7 +39,9 @@ A data analysis project using Excel and Tableau to explore sales performance, id
 
 ## 📸 Dashboard Preview
 
-> After uploading your dashboard image in an `images/` folder, add this:
+![Super Store Sales Analysis Dashboard - 1](https://github.com/user-attachments/assets/2b4c1c88-9234-47ec-bbf2-a56caada498d)
+![Super Store Sales Analysis Dashboard - 2](https://github.com/user-attachments/assets/98bbf91c-6d30-439f-aaf2-8f0fc4991542)
+
 
 ---
 
